@@ -1,3 +1,3 @@
-# Applied Problems of Computer Lingustics
+# Applied Problems of Computer Linguistics
 
 Презентация по библиотеке Natasha
